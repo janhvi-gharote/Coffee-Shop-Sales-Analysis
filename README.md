@@ -1,6 +1,5 @@
 Coffee Shop Sales Analysis
 
-Project Description
 This project analyzes coffee shop sales data using SQL, Excel, and Python. It focuses on understanding key sales metrics such as revenue, customer preferences, peak hours, and more. The project uses SQL to query and analyze the data, Excel for basic data analysis and visualization, and Python to automate tasks and process data.
 
 Tools & Technologies
